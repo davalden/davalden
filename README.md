@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @davalden
 - 👀 I’m interested in many things.
 - 🌱 I’m currently learning something every day.
-- 💞️ I’m currently collaborating on GNU APL
-- 📫 How to reach me gmail
-- 😄 Pronouns: he him his, etc.
+- 💞️ I’m currently collaborating on GNU APL.
+- 📫 How to reach me gmail.
+- 😄 Pronouns: he, him, his, etc.
 - ⚡ Fun fact: has four boats.
 
 <!---
